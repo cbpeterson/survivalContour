@@ -1,7 +1,11 @@
 # survivalContour
 
+### Author: Yushu Shi
+
+- **Reference**: Shi Y, Zhang L, Do K, Jenq RR, Peterson CB. (2024) survivalContour: visualizing predicted survival via colored contour plots. _Bioinformatics Advances_. 4(1): vbae105. [https://doi.org/10.1093/bioadv/vbae105](https://doi.org/10.1093/bioadv/vbae105)
+ 
 ## General info
-Show the predicted survival or cumulative incidence function (competing risks data) over time for single continuous covariate in the form of contour plot or 3D contour plot. The estimate for survival probability and cumulative incidence function(CIF) are based on various survival models. The models that survivalContour supports are listed below. The corresponding R shiny app is availble at [survivalContourRshinyapp](https://biostatistics.mdanderson.org/shinyapps/survivalContour/).
+Show the predicted survival or cumulative incidence function (competing risks data) over time for single continuous covariate in the form of contour plot or 3D contour plot. The estimate for survival probability and cumulative incidence function(CIF) are based on various survival models. The models that survivalContour supports are listed below. The corresponding Shiny app is availble at [survivalContour Shiny app](https://biostatistics.mdanderson.org/shinyapps/survivalContour/).
 
 ## Install
 
